@@ -1,12 +1,14 @@
-# Customer-Churn-Prediction
-<h3>The purpose of this project is to differentiate between reliable and unreliable customers i.e. whether a customer will leave the bank in the near future or not.</h3>
+<h3> Customer-Churn-Prediction. </h3>
+<p>The purpose of this project is to differentiate between reliable and unreliable customers i.e. whether a customer will leave the bank in the near future or not.</p>
 
-To predict the customer churn rate three different models (individually) was created. They are Linear Regression model, Random Forest Tree Regressor model, and Artificial Neural Network model.
+<p>To predict the customer churn rate three different models (individually) was created. They are Linear Regression model, Random Forest Tree Regressor model, and Artificial Neural Network model.</p>
 
-Accuracy of these models are:
-1. Random Forest Tree Regressor= 88%
-2. Artificial Neural Network= 86%
-3. Linear Regression= 80%
+<p>Accuracy of these models are:<p>
+<ul>
+  <li><p>Random Forest Tree Regressor= 88%</p></li>
+  <li><p>Artificial Neural Network= 86%</p></li>
+  <li><p>Linear Regression= 80%</p></li>
+</ul>
 
-This dataset is available in Kaggle :
-https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling 
+<p>This dataset is available in Kaggle :</p>
+<p>https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling </p>
